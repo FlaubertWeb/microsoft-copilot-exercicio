@@ -39,7 +39,7 @@ Ao final, entendi como montar um assistente funcional, capaz de interagir de for
 
 Todos os arquivos e anotações deste conteúdo estão disponíveis aqui:
 
-👉 [https://github.com/seu-usuario/nome-do-repositorio](https://github.com/seu-usuario/nome-do-repositorio)
+👉 [https://github.com/seu-usuario/nome-do-repositorio](https://github.com/FlaubertWeb/microsoft-copilot-exercicio.git)
 
 ---
 
