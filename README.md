@@ -1,4 +1,4 @@
-# microsoft-copilot-exercicio
+# Microsoft Copilot Exercício
 Repositório criado para armazenar o desafio prático de criação de assistentes virtuais utilizando o Microsoft Copilot Studio. O projeto explora diferentes formas de construir copilots — com modelo, com IA descritiva e do zero — além de abordar fluxos de conversa, personalização de respostas e integração com serviços externos.
 
 # Desafio Prático - Microsoft Copilot Studio
@@ -45,5 +45,5 @@ Todos os arquivos e anotações deste conteúdo estão disponíveis aqui:
 
 ## ✍️ Autor
 
-Desenvolvido por [Seu Nome] como parte do desafio prático da plataforma de estudos.
+Desenvolvido por Flaubert Jr como parte do desafio prático da plataforma de estudos.
 
